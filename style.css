@@ -73,3 +73,17 @@ p {
 .seta {
   width: 40px;
 }
+
+.linguagens h3 {
+  border-bottom: 2px solid rgb(130, 126, 148);
+  padding-bottom: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 90px;
+}
+
+.linguagens {
+  padding-bottom: 200px;
+  margin-bottom: auto;
+  padding-top: 200px;
+}
