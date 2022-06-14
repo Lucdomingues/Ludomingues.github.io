@@ -10,7 +10,7 @@ p {
   margin: 0px;
 }
 
-.div {
+.header {
   padding-top: 10px;
   border-bottom: 5px solid rgb(198, 155, 123);
   text-align: center;
@@ -26,6 +26,10 @@ p {
   border-color: rgb(198, 155, 123);
   border-style: double;
   margin-top: 10px;
+}
+
+.nav1 {
+  margin-top: 15px;
 }
 
 .paragrafo {
